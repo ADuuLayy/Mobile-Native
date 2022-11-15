@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RentalZ</string>
+    <string-array name="Furniture_array">
+        <item>Furnished</item>
+        <item>Unfurnished</item>
+        <item>Part Furnished</item>
+    </string-array>
+    <string-array name="PropertyType_array">
+        <item>Single-family homes</item>
+        <item>Condominiums</item>
+        <item>Duplexes</item>
+        <item>Triplexes</item>
+        <item>Fourplexes</item>
+        <item>Flat</item>
+    </string-array>
+    <string-array name="BedNo_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="BathNo_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
